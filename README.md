@@ -19,7 +19,7 @@ Follow these steps to get started with the project:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/berkan_kav/SpringBootSample.git
+    git clone https://github.com/berkankav/SpringBootSample.git
     cd Sample
     ```
 
